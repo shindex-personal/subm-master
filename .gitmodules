@@ -1,0 +1,4 @@
+[submodule "subm-a"]
+	path = subm-a
+	url = https://github.com/shindex-personal/subm-a.git
+	branch = staging
